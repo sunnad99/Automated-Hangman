@@ -7,5 +7,5 @@ NOTE: Before you proceed to do the following steps, you have to install python 3
 1. Extract the repository files to anywhere you prefer, but save the path of the "hangman.py" file. 
 2. Launch your command prompt.
 3. Navigate to the path where you pasted the "hangman.py" and the "wordz_for_hangman.txt" through your command prompt
-4. And launch the game by typing 
-  # python hangman.py
+4. And launch the game by typing (without the quotations)
+  "python hangman.py"
